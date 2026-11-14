@@ -1,0 +1,16 @@
+{
+    "ideias": [
+        {
+            "nome": "SCAN",
+            "descricao": "Criar uma ferramenta de análise."
+        },
+        {
+            "nome": "FLARE UPDATE",
+            "descricao": "Pensar em novas funcionalidades para o FLARE."
+        },
+        {
+            "nome": "NEW GAME",
+            "descricao": "Criar um novo jogo na Godot."
+        }
+    ]
+}
