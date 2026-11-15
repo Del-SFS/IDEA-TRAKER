@@ -1,16 +1,20 @@
 {
     "ideias": [
         {
-            "nome": "SCAN",
-            "descricao": "Criar uma ferramenta de análise."
+            "nome": "Song Player",
+            "descricao": "Criar uma ferramenta song player offline (tocar musicas localmente)"
         },
         {
-            "nome": "FLARE UPDATE",
-            "descricao": "Pensar em novas funcionalidades para o FLARE."
+            "nome": "Song Player online",
+            "descricao": "Criar uma ferramenta song player online baseado em um repo servindo de banco de musicas online ou conectando com um existente de graça"
         },
         {
-            "nome": "NEW GAME",
-            "descricao": "Criar um novo jogo na Godot."
+            "nome": "Upgrede no VZ",
+            "descricao": "Pensar em novas funcionalidades para o VZ."
+        },
+        {
+            "nome": "Jogo de caçar tornados",
+            "descricao": "Caçar tornados no godot, em visão lateral (side-view)"
         }
     ]
 }
